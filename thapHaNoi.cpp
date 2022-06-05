@@ -1,4 +1,4 @@
-#towerHaNoi
+//towerHaNoi
 #include <stdio.h>
 #include <conio.h>
 void tower(int n , char a , char b, char c)
